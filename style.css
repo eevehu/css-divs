@@ -1,0 +1,17 @@
+div {
+    padding: 30px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: sans-serif, "Times New Roman", serif;
+}
+#text {
+    background-color: rgb(120, 0, 255);
+}
+#report {
+    background-color: rgb(255, 0, 0);
+}
+#contact {
+    background-color: rgb(0, 0, 0);
+    text-decoration: none;
+}
